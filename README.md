@@ -1,5 +1,5 @@
 # github-explorer
-github explorer with React-Native and redux boilerplate
+github explorer with React-Native and redux boilerplate :: **Built from scratch**
 1. search, 
 2. add/del bookmark, search and filter bookmark
 3. Bookmarks can be sorted by time added
